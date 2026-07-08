@@ -1,0 +1,16 @@
+{
+  "name": "Capri AgentPay",
+  "short_name": "Capri AgentPay",
+  "description": "Governed payments for AI agents.",
+  "icons": [
+    {
+      "src": "/capri-logo.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#05070d",
+  "background_color": "#05070d",
+  "display": "standalone",
+  "start_url": "/"
+}
